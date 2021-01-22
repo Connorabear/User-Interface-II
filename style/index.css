@@ -80,6 +80,7 @@ body{
    border-left: solid .5vw gold;
    border-right: solid .5vw gold;
    border-top: solid .5vw gold;
+   color: gold;
 }
 nav a{
     padding: 2vw;
